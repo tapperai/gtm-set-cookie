@@ -1,0 +1,5 @@
+homepage: "https://tapper.ai"
+documentation: "https://docs.tapper.ai/gtm/web-first-party-cookie-setter"
+versions:
+  - sha: 8afb64f1dce1db7a245b7cb827de9a5b9ee2ff04
+    changeNotes: Initial Release.
