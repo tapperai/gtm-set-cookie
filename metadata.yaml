@@ -1,7 +1,7 @@
 homepage: "https://tapper.ai"
-documentation: "https://docs.tapper.ai/gtm/web-first-party-cookie-setter"
+documentation: "https://docs.tapper.ai/gtm/web-identification-setter" 
 versions:
   - sha: 1662742ff3d4f1bdd5558421ed80e0d8c6723223 
-    changeNotes: Initial Release.
+    changeNotes: Update identification setting method. 
   - sha: 8afb64f1dce1db7a245b7cb827de9a5b9ee2ff04
-    changeNotes: Initial Release.
+    changeNotes: Initial Release. 
